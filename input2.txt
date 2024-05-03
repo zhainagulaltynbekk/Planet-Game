@@ -1,0 +1,14 @@
+12
+Chop p 11
+Romashka p 4
+Alma d 5
+Almurut b 14
+Zhuzum p 7
+Kainaly  b 6 
+Oruk p 6
+Shabdaly d 11 
+Chalkan p 2
+Chagylgan d 3
+Shpinat p 12 
+Kapusta b 4
+14
